@@ -1,4 +1,4 @@
-# Address CRUD Operations
+# Address Book CRUD Operations
 This repository contains the code for Address CRUD(Create, Read, Update and Delete) operation using FastAPI with SQLite.
 
 ## Getting Started
